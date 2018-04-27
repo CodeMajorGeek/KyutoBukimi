@@ -1,0 +1,4 @@
+New Game;
+Continue;
+Settings;
+Exit;

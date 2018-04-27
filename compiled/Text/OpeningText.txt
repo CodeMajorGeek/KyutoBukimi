@@ -1,0 +1,22 @@
+[scene1][theme][chr1_pos1;chr2_pos1;chr3_pos1] Kyoto: Alors? Tu es là §name ?!/
+
+Kyoto: Tu es sûr que tu as + de 13 ans?/
+
+Kyoto: Si tu le dis... Je te fais confiance §name !/
+
+Bukimi: Moi personnellement j'en ai 16 !/
+
+Bukimi: Mais tu dois le savoir vue qu'on est dans la même classe !!!/
+
+Bukimi: Que je peux être bête parfois !!!/
+
+Kyoto: Oui !!!/
+Bukimi: Pas de commentaire !/
+
+dév: Mais bon ça manque de son je trouve.../
+
+dév: Je vais y remédier !/
+
+dév: Je vais te poser des questions que tu dois forcément connaître !!!/
+
+dév: Alors? Tu connais ?!/

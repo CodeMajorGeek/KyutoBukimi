@@ -1,0 +1,4 @@
+Nouvelle Partie;
+Continuer;
+Paramètres;
+Quitter;
